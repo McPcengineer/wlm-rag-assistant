@@ -1,0 +1,18 @@
+
+
+# 🧩 **requirements.txt (listo)**
+
+langchain
+langchain-community
+langchain-core
+chromadb
+openai
+tiktoken
+pypdf
+fastapi
+uvicorn
+python-dotenv
+sentence-transformers
+requests
+numpy
+scikit-learn
